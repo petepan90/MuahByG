@@ -5,10 +5,10 @@ import { Grid, Paper } from "@material-ui/core"
 
 class Header extends Component {
     render() {
-        return (<Container maxWidth='xl' id="color">
+        return (<Container maxWidth='xl' disableGutters={true}>
             <Grid item xs={12}>
 
-                <Paper style={{ height: "300px" }} id="paper">Header</Paper>
+                <Paper style={{ height: "250px" }} id="paper">Header</Paper>
             </Grid>
         </Container>
 

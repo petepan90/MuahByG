@@ -1,24 +1,28 @@
-/* #back {
-  height: 300px;
+* {
+  background-color: brown;
 }
-
- */
 
 #paper {
+  margin-top: 4%;
   background-color: black;
-color: ivory;
+color: red;
 text-align: center;
-padding-top: 10%;
+padding-top: 8%;
 font-size: 100px;
+margin-bottom: 3%;
 }
 
-
+#Footer {
+  background-color: black;
+  margin-bottom: 2%;
+}
 
 #body {
   background-color: black;
   color: antiquewhite;
   text-align: center;
   font-size: 50px;
+  margin-bottom: 5% ;
 
 
 }
