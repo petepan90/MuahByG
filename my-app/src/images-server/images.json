@@ -1,0 +1,44 @@
+{
+    "images": [
+        {
+            "imagesUrl": "../Images/bukeesistersweet16stylegreen.png",
+            "title": "Sweet sixteen",
+            "bodyText": "Photoshoot for a sweet 16"
+        },
+        {
+            "imagesUrl": "/Images/bukeesweet16grin.png",
+            "title": "Sweet 16",
+            "bodyText": "Photoshoot for a sweet 16"
+        },
+        {
+            "imagesUrl": "/Images/bukeesweet16pinksitting.png",
+            "title": "Sweet 16",
+            "bodyText": "Photoshoot for sweet 16"
+        },
+        {
+            "imagesUrl": "/Images/bukeesweet16sissmile.png",
+            "title": "Sweet 16",
+            "bodyText": "Photoshoot for sweet 16"
+        },
+        {
+            "imagesUrl": "/Images/christella.png",
+            "title": "Birthday picture",
+            "bodyText": "a Birthday look"
+        },
+        {
+            "imagesUrl": "/Images/maxeneeyesclosed.JPG",
+            "title": "Birthday picture",
+            "bodyText": "Birthday Look"
+        },
+        {
+            "imagesUrl": "/Images/standup.png",
+            "title": "Sweet 16",
+            "bodyText": "Photoshoot"
+        },
+        {
+            "imagesUrl": "/Images/jess.jpg",
+            "title": "Birthday look",
+            "bodyText": "Birthday"
+        }
+    ]
+}

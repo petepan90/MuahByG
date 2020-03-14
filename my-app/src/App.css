@@ -1,37 +1,95 @@
-* {
-  background-color: brown;
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(255, 255, 255);
 }
 
-#paper {
-  margin-top: 4%;
-  background-color: black;
-color: red;
-text-align: center;
-padding-top: 8%;
+li {
+  float: right;
+  margin-top: 8%;
+}
+
+li a {
+  display: block;
+  color: rgb(5, 5, 5);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  background-color: rgb(250, 250, 250);
+  margin-bottom: 121px;
+}
+
+li a:hover {
+  background-color: red;
+}
+
+
+#Headerpaper {
+background-color: rgb(255, 253, 253);
+color: rgb(7, 7, 7);
 font-size: 100px;
-margin-bottom: 3%;
+width: 100%;
+text-align: center;
+/* background-image: url('./Images/bukeesweet16pinksitting.png'); */
+
+ padding-top: 285px; 
 }
 
-#Footer {
-  background-color: black;
+#Headerpaper2 {
+  float: right;
+  margin-top: -19%;
+  font-size: 30px;
+ background-color: rgb(175, 66, 66);
+ color: rgb(0, 0, 0);
+}
+
+#Gallerypaper {
+background-color: #ffffff;
+color: black; 
+text-align: center; 
+font-size: 50px;
+/* border: black */
+   
+
+
+}
+
+#Servicespaper {
+  background-color: #d3d3d3;
+  color: antiquewhite;
+  /* text-align: center; */
+  font-size: 50px;
+  
+}
+
+#Footerpaper{
+  background-color: #aaa3a3;
+  /* color: ; */
   margin-bottom: 2%;
+  
 }
 
-#body {
-  background-color: black;
-  color: antiquewhite;
+#formcontainer {
+  padding-top: 5%;
+  /* border-radius: 5px; */
+  /* background-color: #f2f2f2; */
+  /* padding: 20px; */
   text-align: center;
-  font-size: 50px;
-  margin-bottom: 5% ;
+}
+
+#contactcontain {
+  background-color: lightblue;
+}
+/* #Footercontainer{
+  margin-bottom: 2%;
+} */
+
+#contacth1 {
+  text-align-last: center;
+  padding-top: 10%;
 
 
 }
-
-#body2 {
-  background-color: black;
-  color: antiquewhite;
-  text-align: center;
-  font-size: 50px;
-  float: left;
-}
-
